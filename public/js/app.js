@@ -2,7 +2,6 @@
 
 // const { response } = require("express")
 
-console.log('client side server scripting.')
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //     response.json().then((data)=>{
